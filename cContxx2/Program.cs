@@ -9,7 +9,7 @@ namespace cContxx2
     class Program
     {
         static void Main(string[] args)
-        {
+        {//comment 1
         }
     }
 }
